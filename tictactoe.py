@@ -1,4 +1,5 @@
-# Simple TicTacToe game in Python
+# Simple TicTacToe game in Python 
+# created by shubham kumar
 import random
 import sys
 
